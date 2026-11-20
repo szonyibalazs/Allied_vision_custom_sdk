@@ -1,0 +1,12 @@
+# build output
+u3v
+probe
+__pycache__/
+
+# captures and camera-specific vendor files
+*.raw
+*.stream
+*.pgm
+*.zip
+xml_extract*/
+GenICam_*.xml
